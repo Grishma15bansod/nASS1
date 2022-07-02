@@ -1,0 +1,10 @@
+Create a route using http module and explain what is node by sending response in HTML and JSON format
+
+
+1. NODEjs is a open source cross flatform for runtime enviornment builte on chrome v8 js engine and exicute the js code without a brawser.
+2.node js is not a framework or not a programing language. 
+3.node js is used in backend services like APIS, web-app, mobile-app.
+4. when we are creating the server we have to import the http module with the require funct
+5. while creating the server we have to use createServer function with http module and having the call back function of reqest and response.
+6. we have to use response for display the content on the screen .
+7.we are creating the server with plane txt, html , or json formate. 
